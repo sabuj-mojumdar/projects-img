@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Music Lessons",
+        "price": 520,
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/projects-img/main/class-1.jpg",
+        "description": "Are you a music teacher wanting to start an early preschool music class? Preschool music and working with 3-year-olds was one of my favorite ages to teach. I don’t currently teach them, but I do miss them so. Still, if you’re a responsible parent or new-to-younger-ages music teacher you may be wondering how to teach music to 3 year olds. Teaching music to 3 year olds is a (mostly) relaxing process. The focus should be on creating a fun musical experience through the following types of activities: ",
+        "age": "5 to 9",
+        "seats": 20
+    },
+    {
+        "id": 2,
+        "title": "Paper Plates Art",
+        "price": 320,
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/projects-img/main/class-2.jpg",
+        "description": "We love all things simple in this house, which might be why paper plate crafts are such a hit.  No need for anything too fancy, complicated, or expensive for my kids to get creative with. We like things like paint, paper, glue, yarn, tape, and paper plates.  We really like paper plates.  So much so that I challenged myself to find 75 paper plate crafts for kids to keep in my back pocket for a rainy day (or 75).",
+        "age": "3 to 5",
+        "seats": 22
+    },
+    {
+        "id": 3,
+        "title": "Education Lessons",
+        "price": 480,
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/projects-img/main/class-3.jpg",
+        "description": "We all know there are special challenges to every age, but high schools kids can direct their own learning, and younger kids need socialization and less focus on academics. Much of this guide is focused on elementary (primary) school children, ages five to 12. But there’s a special chapter for 0-3 and some links for older kids too. Here are the basics: make a schedule—we need to create order when there is none—forgive yourself when you realize you are a terrible teacher (and then send a note to your teacher expressing appreciation), recognize that kids will be on screens way more than anyone wants, and keep an eye on their well-being and yours.",
+        "age": "2 to 4",
+        "seats": 17
+    },
+    {
+        "id": 4,
+        "title": "Color Matching",
+        "price": 360,
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/projects-img/main/class-4.jpg",
+        "description": "Create two sets of cardboard shapes of various colors (two blue triangles, two green triangles, two red circles, and so on). Take one set and hide the shapes in places around the room where they won't be too difficult to find. For example, you could put a yellow square among the blocks or put a red triangle on a string around a teddy bear's neck. Keep the other set of shapes aside. ",
+        "age": "4 to 6",
+        "seats": 10
+    },
+    {
+        "id": 5,
+        "title": "Drawing & Painting",
+        "price": 360,
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/projects-img/main/class-5.jpg",
+        "description": "School has started all across the country, but for those who are looking for some extracurriculars, like painting classes for kids or other online art classes for kids, or those trying to fill those last weeks of summer, you’ve come to the right place. Great, affordable art classes for kids and toddlers are, luckily, not that hard to find, and you’ve come to the right place for some great art classes for kids that are on the computer. This list of online art classes for kids includes drawing classes for kids, painting classes for kids, and so much more. These classes are everywhere online, at low or no cost to you.",
+        "age": "4 to 6",
+        "seats": 12
+    },
+    {
+        "id": 6,
+        "title": "Letter Match",
+        "price": 250,
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/projects-img/main/class-6.jpg",
+        "description": "Ask your class if they know the difference between upper and lower case letters. Let your students discuss their ideas. Tell your students about upper case letters, or the forms of letters that start proper nouns and sentences, and lower case letters, or the form of letters that makes up everything else, are used together to create words and sentences. Inform your students that they will be learning about matching letters, or the upper and lower case forms of the same letter, today. Show students your letter cutouts and draw their attention to the differences between upper and lower case letters and tell them that they will match these letters.",
+        "age": "4 to 6",
+        "seats": 17
+    },
+    {
+        "id": 7,
+        "title": "Learn with toy",
+        "price": 380,
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/projects-img/main/12.jpg",
+        "description": "The following ideas are ideal for a post-Christmas show and tell style session but can be equally adapted throughout the year. You will need to spend a couple of lessons on toys to introduce ‘favourite’ and for children to bring their toys in for the lesson after to talk about them. ",
+        "age": "4 to 6",
+        "seats": 25
+    }
+]
